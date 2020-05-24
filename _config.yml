@@ -28,7 +28,7 @@ twitter_username: n/a
 github_username: trustnotme
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
